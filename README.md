@@ -15,3 +15,8 @@ Link to Class Diagram on Google Doc: `https://tinyurl.com/4vskj536`.
 
 c. *Code Implementation*: You can check the code implementation in the online_event_booking.js file.
 
+**TASK 2**
+a. Drawn and attached to the article
+
+b. Link to the article on medium: `...`
+
