@@ -1,5 +1,6 @@
 # uml-diagram
-Class Diagram of an Online Event Tickect Booking System
+
+AN ONLINE EVENT TICKET BOOKING SYSTEM
 
 **TASK ONE**
 a. *State and Describe the Problem Domain*
