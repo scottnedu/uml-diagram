@@ -14,6 +14,7 @@ b. *Create a Class Diagram*
 Link to Class Diagram on Google Doc: `https://tinyurl.com/4vskj536`.
 
 c. *Code Implementation*: You can check the code implementation in the online_event_booking.js file.
+                          Screenshot of my output is in the images folder.
 
 
 
